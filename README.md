@@ -1,4 +1,6 @@
-### Hi there 👋
+
+<img src="https://github.com/Michael-Durcholz/my-github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/Michael-Durcholz/my-github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 
 <!--
 **Michael-Durcholz/Michael-Durcholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
