@@ -1,8 +1,8 @@
-![](https://raw.githubusercontent.com/Michael-Durcholz/my-github-stats/master/generated/overview.svg#gh-light-mode-only)
-![](https://raw.githubusercontent.com/Michael-Durcholz/my-github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Michael-Durcholz/my-github-stats/main/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/Michael-Durcholz/my-github-stats/main/generated/languages.svg#gh-light-mode-only)
 <!--
-![](https://raw.githubusercontent.com/Michael-Durcholz/my-github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/Michael-Durcholz/my-github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Michael-Durcholz/my-github-stats/main/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/Michael-Durcholz/my-github-stats/main/generated/languages.svg#gh-dark-mode-only)
 -->
 <!--
 **Michael-Durcholz/Michael-Durcholz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
